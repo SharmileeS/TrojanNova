@@ -1,0 +1,83 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/settings_unlock_category_name">
+        <!-- NOTE: EditTextPreference accepts EditText attributes. -->
+        <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
+        <SwitchPreference
+            android:key="unlock_screen_enable"
+            android:title="@string/settings_unlock_enable"
+            android:defaultValue="false"
+            android:capitalize="words"
+            />
+
+        <EditTextPreference
+            android:capitalize="words"
+            android:defaultValue="@string/settings_unlock_display_default"
+            android:inputType="textCapWords"
+            android:key="unlock_screen_display_name"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/settings_unlock_display_name" />
+
+        <Preference
+            android:layout="@layout/custompreference"
+            android:capitalize="words"
+            android:defaultValue="NA"
+            android:key="unlock_screen_image"
+            android:selectAllOnFocus="true"
+            android:title="@string/settings_unlock_choose_image" />
+
+        <Preference
+            android:layout="@layout/custompreference"
+            android:capitalize="words"
+            android:defaultValue="NA"
+            android:key="unlock_screen_wallpaper_image"
+            android:selectAllOnFocus="true"
+            android:title="@string/settings_unlock_choose_wallpaper" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/settings_widget_category_name">
+        <!-- NOTE: EditTextPreference accepts EditText attributes. -->
+        <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
+        <Preference
+            android:capitalize="words"
+            android:key="widget_install"
+            android:selectAllOnFocus="true"
+            android:title="@string/settings_widget_install"/>
+
+        <!--<com.nova.trojan.trojannova.utils.TimeZonePreference-->
+            <!--android:key="widget_time_zone"-->
+            <!--android:title="@string/settings_widget_choose_time_zone" />-->
+        <Preference
+            android:capitalize="words"
+            android:defaultValue="NA"
+            android:key="wallpaper_image"
+            android:selectAllOnFocus="true"
+            android:title="@string/settings_wallpaper_choose_image"
+            android:layout="@layout/custompreference"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/settings_appmngr_category_name">
+        <!-- NOTE: EditTextPreference accepts EditText attributes. -->
+        <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
+        <Preference
+            android:capitalize="words"
+            android:defaultValue="NA"
+            android:key="appmngr_main"
+            android:selectAllOnFocus="true"
+            android:title="@string/settings_appmngr_manage">
+
+
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="com.nova.trojan.trojannova"
+                android:targetClass="com.nova.trojan.trojannova.appmngr.AppManagerActivity"
+                />
+        </Preference>
+
+
+    </PreferenceCategory>
+</PreferenceScreen>

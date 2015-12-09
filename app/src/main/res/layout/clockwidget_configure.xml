@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:background="#FFFFFF" android:orientation="vertical" android:padding="16dp">
+
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Click button to add to screen" android:layout_marginBottom="8dp" />
+
+    <Button android:id="@+id/clockwidget_add_btn" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="@string/clockwidget_add"
+        android:layout_marginTop="8dp" />
+    <Button android:id="@+id/clockwidget_add_no_wallpaper__btn" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="@string/clockwidget_add_no_wallaper"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>

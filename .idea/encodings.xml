@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/android-query.0.26.8.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/libs/jsoup-1.8.3.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nova/trojan/trojannova/SettingsActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nova/trojan/trojannova/appmngr" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nova/trojan/trojannova/clockwidget" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nova/trojan/trojannova/lockscreen" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nova/trojan/trojannova/utils" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/clock_background.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/clock_tommy_background.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/trojan_icon.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/usc_color.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/usc_user.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v21" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

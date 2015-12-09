@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TrojanNova</string>
+    <string name="settings_unlock_display_name">Display name</string>
+    <string name="settings_unlock_display_default">John Smith</string>
+    <string name="settings_unlock_category_name">Unlock Screen</string>
+    <string name="settings_unlock_choose_image">Choose Display Image</string>
+    <string name="settings_unlock_choose_wallpaper">Choose Background Image</string>
+    <string name="settings_widget_category_name">Clock Widget</string>
+    <string name="settings_widget_choose_time_zone">Choose Time Zone</string>
+    <string name="settings_appmngr_category_name">App Manager</string>
+    <string name="settings_appmngr_manage">Manage your Trojan Apps</string>
+
+    <string name="appmngr_about_title">App Manager How To</string>
+    <string name="appmngr_about_desc">You can manage all your trojan apps from here.</string>
+    <string name="appmngr_action_about">action_about</string>
+    <string name="appmngr_app_icon">app icon</string>
+
+    <string name="clockwidget_text">USC Clock</string>
+    <string name="clockwidget_configure">Configure</string>
+    <string name="clockwidget_add">Add widget and wallpaper</string>
+    <string name="clockwidget_add_no_wallaper">Add widget without wallpaper</string>
+
+    <string name="lockscreen_text">Home Screen</string>
+    <string name="lockscreen_widget">Set USC home</string>
+    <string name="lockscreen_name">Name</string>
+    <string name="lockscreen_pic">Choose Pic</string>
+    <string name="settings_wallpaper_choose_image">Change wallpaper</string>
+    <string name="settings_unlock_enable">Enable lock screen</string>
+    <string name="lockscreen_header">Welcome Trojan</string>
+    <string name="settings_widget_install">Install widget</string>
+</resources>

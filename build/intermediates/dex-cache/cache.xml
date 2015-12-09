@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-678b1720829e1690bb05f3b31a4b67e54e78605f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\libs\android-query.0.26.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90392ad036ed66b47f5b5f79e5524cb4174be2f1">
+        <dex dex="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\build\intermediates\pre-dexed\debug\android-query.0.26.8-2f14769891477b1cd6016c133b610c022bb9e5a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\libs\jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3-78966a58529e93f81145f7a9e20000850372b356.jar" />
+    </item>
+    <item
+        jar="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\build\intermediates\pre-dexed\debug\classes-c27eb4f7ad9b13f6dd4196d11fe1f0d121cf4342.jar" />
+    </item>
+    <item
+        jar="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\build\intermediates\pre-dexed\debug\classes-e6dfc0e36d5e01b34b5e0f0e310d9d372f6b5075.jar" />
+    </item>
+    <item
+        jar="C:\Users\Milee\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Milee\Documents\Sem3\DR\TrojanNova\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-9d5f76fb1a0d48d51bd6052045a75c2acb2dd2c1.jar" />
+    </item>
+
+</items>
