@@ -21,6 +21,6 @@ Please create a new project with no activity and set same path as this project a
 
 For additional information on how the application works, please watch the video in the below link :
 (http://www.screencast.com/t/vbRkjn2eGw).
-###### To use the apk directly, download the apk file to your device and start using the application.
+###### To use the app directly, download the apk file above to your device and start using the application.
 
 
